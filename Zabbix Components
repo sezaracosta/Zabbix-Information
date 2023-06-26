@@ -1,0 +1,2 @@
+ZABBIX SERVER HAS SEVERAL COMPONENTS  *-*
+/usr/sbin/zabbix_serverc -c /etc/zabbix/zabbix_server.conf 
